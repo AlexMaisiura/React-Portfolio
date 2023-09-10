@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99b7d5e9.css",
+    "main.js": "/static/js/main.06735747.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/web3.png": "/static/media/web3.3dc400f256b14cf27ee3.png",
+    "static/media/npmtiger.png": "/static/media/npmtiger.8f9222a74a2500481e2e.png",
+    "static/media/about.png": "/static/media/about.a7b582b40619926a4911.png",
+    "static/media/minigame.png": "/static/media/minigame.ae4a6deb4c6932814601.png",
+    "static/media/barras-app.png": "/static/media/barras-app.f129e97ce756a5e48d15.png",
+    "static/media/synonymous.png": "/static/media/synonymous.584485d81ebbd16e0d5c.png",
+    "static/media/kings.png": "/static/media/kings.d380f44976cdaa909af9.png",
+    "static/media/home-main.svg": "/static/media/home-main.9248022fa6412cb17a8322b1e2206de4.svg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avataaars.svg": "/static/media/avataaars.21fcfc3ccaf72c64cc4531a8be0f6ffa.svg",
+    "static/media/pre.svg": "/static/media/pre.d9952cc0e3f7bb0f1184.svg",
+    "index.html": "/index.html",
+    "main.99b7d5e9.css.map": "/static/css/main.99b7d5e9.css.map",
+    "main.06735747.js.map": "/static/js/main.06735747.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b7d5e9.css",
+    "static/js/main.06735747.js"
+  ]
+}
